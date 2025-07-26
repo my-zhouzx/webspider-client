@@ -1,0 +1,20 @@
+{
+  "name": "webspider/client",
+  "description": "web spider client",
+  "type": "l",
+  "require": {
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Outman",
+      "email": "mail@outman.me"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "src/Task.php"
+    ]
+  },
+  "minimum-stability": "dev"
+}
