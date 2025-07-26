@@ -16,5 +16,5 @@
       "src/Task.php"
     ]
   },
-  "minimum-stability": "dev"
+  "minimum-stability": "stable"
 }
