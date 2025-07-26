@@ -1,7 +1,7 @@
 {
   "name": "webspider/client",
   "description": "web spider client",
-  "type": "l",
+  "type": "library",
   "require": {
   },
   "license": "MIT",
